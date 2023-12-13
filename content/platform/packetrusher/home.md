@@ -32,6 +32,4 @@ PacketRusher is an open-source dedicated to the performance testing and automati
 
 [Quickstart Guide](https://github.com/HewlettPackard/PacketRusher/blob/main/README.md): Learn how to install and use PacketRusher in chrono time.
 
-
-
 [PacketRusher's Wiki on GitHub](https://github.com/HewlettPackard/PacketRusher/wiki): Get hints on how to use PacketRusher.
